@@ -50,3 +50,4 @@ for (let index = 0; index < number.length; index++) {
 for(prop in persona){
 console.log(prop)
 }
+//V8= JS Engine https://developer.mozilla.org/es/docs/Web/API
