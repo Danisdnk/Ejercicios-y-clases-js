@@ -1,0 +1,11 @@
+1) hacer una etiqueta button con un texto que diga crear parrafo 
+2 en js agarrar ese nodo
+3) registrarle un callback a su click
+4) en el callback del boton hay que crear la siguiente estructura 
+<div>
+<p>Lorem Ipsum</p>
+<button>borrar</button>
+</div>
+
+5) el botno tiene el texto "borrar" tambien tiene que tener un click y su callback tiene que poder borrar el mismo parrafo al cual pertenece usando la funcion 
+nodeT.removeChild(NodoC) .>le remueve el nodo childC(child) al nodoT (target)
