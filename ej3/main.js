@@ -22,9 +22,9 @@ function CrearBotones() {
 
    
     function BorrarDiv() {
-        btn_contenido.removeChild(parrafo)
+        body.removeChild(btn_contenido)
         console.log("quiso borrar");
-
+//document.body.removeChild(e.target.parentNode)
 
     }
     

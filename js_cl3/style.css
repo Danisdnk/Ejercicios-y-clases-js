@@ -1,0 +1,24 @@
+.popup {
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+
+}
+.popup p {
+    width: 300px;
+}
+
+.popup button{
+    background-color: rebeccapurple;
+}
+.popup >button:nth-child(1){
+background-color: blue;
+}
+
+.popup >button:nth-child(2){
+    background-color: red;
+    }
