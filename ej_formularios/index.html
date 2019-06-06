@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- COntroles de formularios input select textarea button fieldset label legend option  -->
+    <form action="">
+        <div>
+            <label for="nombre">nombre</label>
+            <input type="text" placeholder="ingrese nombre" id="nombre">
+        </div>
+        <div>
+            <label for="edad">edad</label>
+
+            <input type="number" placeholder="edad" id="edad">
+        </div>
+
+        <div>
+            <label for="email">email</label>
+
+            <input type="email" placeholder="email here">
+        </div>
+        <div>
+            <label for="pass">password</label>
+
+            <input type="password" placeholder="password" id="pass">
+        </div>
+        <div>
+            <label for="nac">nacionalidad</label>
+            <select name="" id="nac">nacionalidad
+                <option value="0">Elige una opcion</option>
+
+                <option value="ar">Argentina</option>
+                <option value="ve">Venezolana</option>
+                <option value="ch">China</option>
+            </select>
+        </div>
+        <div>
+            <label for="comentario">comentario</label>
+            <textarea name="" id="comentario"></textarea>
+        </div>
+        <div>
+            <label for="masc">
+                Masculino </label> <input type="radio" id="masc" name="genero">
+
+            <label for="masc">
+                fem </label> <input type="radio" id="fem" name="genero">
+
+        </div>
+        <div>
+            <label for="tou"> terminos y condiciones</label>  <input type="checkbox" name="" id="tou"></div>
+        <div> <input type="submit" value="Enviar">
+        </div>
+        <!-- si el boton esta dentro del formulario automaticamente lo detecta como submit del boton -->
+    </form>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
