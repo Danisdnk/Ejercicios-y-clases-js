@@ -24,9 +24,12 @@ let paises = {
     /* console.dir(form) */
     console.dir(e.target[0].value)
     console.dir(select.value)
+  
+  
     let valor = select.selectedIndex
-    let paisesOpcion = paises[valor]
-    if (valor == paisesOpcion) {
+    console.dir(valor)
+
+    if (valor == paises[index]) {
         console.log("es argentina")
 
     }
