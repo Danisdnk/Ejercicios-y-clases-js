@@ -1,0 +1,6 @@
+C:\Users\T11641.Training23\Desktop\technoloshe\proyecto c# c1\Technoloshe\Logica\bin\Debug\Logica.dll
+C:\Users\T11641.Training23\Desktop\technoloshe\proyecto c# c1\Technoloshe\Logica\bin\Debug\Logica.pdb
+C:\Users\T11641.Training23\Desktop\technoloshe\proyecto c# c1\Technoloshe\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\T11641.Training23\Desktop\technoloshe\proyecto c# c1\Technoloshe\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\T11641.Training23\Desktop\technoloshe\proyecto c# c1\Technoloshe\Logica\obj\Debug\Logica.dll
+C:\Users\T11641.Training23\Desktop\technoloshe\proyecto c# c1\Technoloshe\Logica\obj\Debug\Logica.pdb
