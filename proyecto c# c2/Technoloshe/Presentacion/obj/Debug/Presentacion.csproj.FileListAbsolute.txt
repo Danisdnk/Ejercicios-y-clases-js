@@ -10,3 +10,17 @@ C:\Users\T11641.Training23\Desktop\technoloshe\proyecto c# c1\Technoloshe\Presen
 C:\Users\T11641.Training23\Desktop\technoloshe\proyecto c# c1\Technoloshe\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\T11641.Training23\Desktop\technoloshe\proyecto c# c1\Technoloshe\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\T11641.Training23\Desktop\technoloshe\proyecto c# c1\Technoloshe\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\bin\Debug\Entidades.dll
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\bin\Debug\Logica.dll
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\bin\Debug\Datos.dll
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\bin\Debug\Logica.pdb
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\bin\Debug\Datos.pdb
+C:\Users\T11641.Training23\Desktop\GIT technoloshhhhhe\Proyecto\proyecto c# c2\Technoloshe\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete

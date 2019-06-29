@@ -1,6 +1,6 @@
 ﻿namespace Logica
 {
-    class Alumno
+    public class Alumno
     {
         //metodos
         /// <summary>
@@ -11,6 +11,7 @@
         /// <param name="pAlumno"></param>
         //void es cuando no devuelve nada
         //p de parametro pAlumno es el nombre de la variable  
+
         public void Agregar(Entidades.Alumno pAlumno)
         {
             //TODO llamar a metodo agregar de la capa de datos (q todavia no esta creada)
@@ -18,4 +19,5 @@
             objAlumno.Agregar(pAlumno);
         }
     }
+    
 }
