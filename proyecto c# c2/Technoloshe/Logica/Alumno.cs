@@ -1,4 +1,7 @@
-﻿namespace Logica
+﻿
+using System.Data;
+
+namespace Logica
 {
     public class Alumno
     {
@@ -17,6 +20,11 @@
             //TODO llamar a metodo agregar de la capa de datos (q todavia no esta creada)
             Datos.Alumno objAlumno = new Datos.Alumno();
             objAlumno.Agregar(pAlumno);
+        }
+        public DataTable TraerTodos()
+        {
+            Datos.Alumno objDatos = new Datos.Alumno();
+            return objDatos.TraerTodo();
         }
     }
     

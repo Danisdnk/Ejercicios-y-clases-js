@@ -11,10 +11,12 @@ namespace Logica
             public void Agregar(Entidades.Profesor pProfesor)
             {
                 //TODO llamar a metodo agregar de la capa de datos (q todavia no esta creada)
-                Datos.Profesor objAlumno = new Datos.Profesor();
-                objAlumno.Agregar(pProfesor);
-            }
+                Datos.Profesor objProfesor = new Datos.Profesor();
+                objProfesor.Agregar(pProfesor);
+            
         }
+
+    }
 
     }
 

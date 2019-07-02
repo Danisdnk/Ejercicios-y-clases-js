@@ -1,4 +1,5 @@
 ﻿using System;
+//por ser capa de datos
 using System.Data;
 using System.Data.SqlClient;
 
@@ -31,5 +32,17 @@ namespace Datos
             //en la capa de entidades voy 
         }
 
+        public DataTable TraerTodo()
+        {
+            //modo desconectado (me conecto a la base de datos consigo los datos y se cierra la conexion)
+            string strConexion = @"Server=CPX-VYUQZO5AI4K\TRAINING;database=TecnolosheNueva;Integrated Security=true";
+            string strSQL = "select*from alumnos";
+            SqlDataAdapter objDa = new SqlDataAdapter(strSQL,strConexion);
+            DataTable dt = new DataTable();
+
+            objDa.Fill(dt);
+
+            return dt;
+        }
     }
 }

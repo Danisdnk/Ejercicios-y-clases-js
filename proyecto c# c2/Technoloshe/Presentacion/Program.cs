@@ -11,7 +11,7 @@ namespace Presentacion
         static void Main(string[] args)
         {
             Entidades.Alumno objEntidadAlumno = new Entidades.Alumno();
-            objEntidadAlumno.DNI = 1234434;
+            objEntidadAlumno.DNI = 1442234;
             objEntidadAlumno.APELLIDO = "Rodrig";
             objEntidadAlumno.NOMBRE = "FLOR";
             Logica.Alumno objLogicaAlumno = new Logica.Alumno();
